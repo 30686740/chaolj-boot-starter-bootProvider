@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chaolj.core.bootUtils.bootConfig.AppExceptionHandler,\
+com.chaolj.core.bootUtils.bootConfig.DruidStatConfig,\
+com.chaolj.core.bootUtils.bootConfig.JacksonConfig,\
+com.chaolj.core.bootUtils.bootConfig.Knife4jConfiguration,\
+com.chaolj.core.bootUtils.bootConfig.SqlInterceptor,\
+com.chaolj.core.bootUtils.bootConfig.TokenTrackConfig,\
+com.chaolj.core.bootUtils.bootConfig.XxlJobConfig
